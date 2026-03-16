@@ -1,5 +1,5 @@
 {
-  "latest_version": "v0.3.6",
+  "latest_version": "v0.3.8",
   "release_date": "2026-03-16",
   "mandatory": false,
   "notes": [
@@ -9,6 +9,6 @@
     "Minor bug fix.",
     "Added github mini browser."
   ],
-  "asset_url": "https://github.com/kylebriancasoy-eng/rosr-updates/releases/download/v0.3.6/rosr_lore_tool_python_v0_3_6_bundle.zip",
+  "asset_url": "https://github.com/kylebriancasoy-eng/rosr-updates/releases/download/v0.3.8/rosr_lore_tool_python_v0_3_8_bundle.zip",
   "sha256": "PASTE_THE_HASH_HERE"
 }
