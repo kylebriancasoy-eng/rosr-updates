@@ -1,12 +1,13 @@
 {
-  "latest_version": "v0.3.4",
+  "latest_version": "v0.3.6",
   "release_date": "2026-03-16",
   "mandatory": false,
   "notes": [
     "Improved launcher behavior.",
     "Added update delivery support.",
     "Fixed interface issues.",
-    "Minor bug fix."
+    "Minor bug fix.",
+    "Added github mini browser."
   ],
   "asset_url": "https://github.com/kylebriancasoy-eng/rosr-updates/releases/download/v0.3.2/rosr_lore_tool_python_v0_3_2_bundle.zip",
   "sha256": "PASTE_THE_HASH_HERE"
